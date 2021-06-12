@@ -41,3 +41,7 @@ This workflow makes it easy to access your own GitHub content using the `my` key
 # About
 
 This workflow is unaffiliated with nor endorsed by GitHub, Inc.
+
+[Discuss this workflow](https://www.alfredforum.com/topic/16992-alfred-toolkit-for-github/) on the Alfred Forum.
+
+You can [file bugs](https://github.com/chrismessina/alfred-github-toolkit/issues/new) or [submit feature requests](https://github.com/chrismessina/alfred-github-toolkit/issues/new) on GitHub.
