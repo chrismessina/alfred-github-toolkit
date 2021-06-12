@@ -1,6 +1,8 @@
 # Alfred Toolkit for GitHub
 
-The GitHub Toolkit for Alfred makes it easy to quickly access GitHub's website features, including Pull Requests, Issues, Explore, your own content and more with the `github` keyword.
+The GitHub Toolkit for Alfred makes it easy to quickly access GitHub's web features, including Pull Requests, Issues, Explore, Trending and more with the `github` keyword.
+
+You can also quickly access your own GitHub content once you've set up your account (see below) with the `my` keyword.
 
 You can also create new repositories, gists, organizations, and projects with the `new` keyword.
 
