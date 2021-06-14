@@ -38,6 +38,7 @@ This workflow makes it easy to access your own GitHub content using the `my` key
 ## [v0.1.1] - 2021-06-14
 ### Added
 - Added `@` keyword to make it easy to go to someone's GitHub profile.
+- Added `!`, `notifs`, and `my` keywords to go to Notifications.
 
 ### Fixed
 - Changed Marketplace search to use `{var:domain}` environmental variable
