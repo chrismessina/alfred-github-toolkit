@@ -35,6 +35,13 @@ This workflow makes it easy to access your own GitHub content using the `my` key
 
 # Changelog[¹](https://keepachangelog.com/)
 
+## [v0.1.1] - 2021-06-14
+### Added
+- Added `@` keyword to make it easy to go to someone's GitHub profile.
+
+### Fixed
+- Changed Marketplace search to use `{var:domain}` environmental variable
+
 ## [v0.1.0] - 2021-06-11
 - Initial Release
 
